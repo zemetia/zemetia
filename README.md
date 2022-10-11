@@ -1,22 +1,10 @@
-### Hi there 👋
-
-<!--
-**zemetia/zemetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
 # 💫 About Me:
-Student of Insitut Teknologi Sepuluh Nopember<br>Informatics Engineering<br>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Student of Insitut Teknologi Sepuluh Nopember
+- Informatics Engineering
+- 🌱 I’m currently learning Quantum Computing
+- 👯 I’m looking to collaborate on PyOOSql
+- 🤔 I’m looking for help with my love
+- 💬 Ask me about Animeew
 
 
 ## 🌐 Socials:
@@ -28,9 +16,6 @@ Student of Insitut Teknologi Sepuluh Nopember<br>Informatics Engineering<br>
 ![](https://github-readme-stats.vercel.app/api?username=zemetia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zemetia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zemetia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zemetia&icon=0&color=6)](https://visitcount.itsvg.in)
