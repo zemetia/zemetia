@@ -2,8 +2,6 @@
 - Student of Insitut Teknologi Sepuluh Nopember
 - Informatics Engineering
 - 🌱 I’m currently learning Quantum Computing
-- 👯 I’m looking to collaborate on PyOOSql
-- 🤔 I’m looking for help with my love
 - 💬 Ask me about Animeew
 
 
